@@ -12,7 +12,7 @@
 <br>
 
 - A passionate Self-taught Hardware Neuromorphic Engineer
-- Currently studying the Physics of Semiconductor Devices 4e by Simon M. Sze, AI general architectures and implementation of those  and MySql
+- Currently studying the Physics of Semiconductor Devices 4e by Simon M. Sze, AI general architectures and implementation of those on hardware using both analog and digital electronics
 
 
 <br>
@@ -27,7 +27,8 @@
 - **Languages**:
     
     ![Lua](https://img.shields.io/badge/Lua%20-%232370ED.svg?style=for-the-badge&logo=lua&logoColor=white)
-    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+	![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+	![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
 <br>   
